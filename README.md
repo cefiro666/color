@@ -5,8 +5,10 @@ A description of this package.
 Консольная утилита для получения названия цвета по hex коду.
 Использует API https://www.thecolorapi.com.
 
-Запустите скрипт setup.sh
+Собрать пакет
+`swift build -c release`
 
+Запустить скрипт setup.sh
 `./setup.sh`
 
 Произойдет копирование исполняемого файла в папку ~/.bin/ и установка пути исполнения в .zshrc
