@@ -1,0 +1,42 @@
+{
+  "": {
+    "dependencies": "/Users/banikvv/Desktop/test/color/.build/arm64-apple-macosx/release/color.build/color.d",
+    "object": "/Users/banikvv/Desktop/test/color/.build/arm64-apple-macosx/release/color.build/color.o",
+    "swift-dependencies": "/Users/banikvv/Desktop/test/color/.build/arm64-apple-macosx/release/color.build/master.swiftdeps"
+  },
+  "/Users/banikvv/Desktop/test/color/Sources/color/Entities/AppError.swift": {
+    "object": "/Users/banikvv/Desktop/test/color/.build/arm64-apple-macosx/release/color.build/Entities/AppError.swift.o",
+    "swiftmodule": "/Users/banikvv/Desktop/test/color/.build/arm64-apple-macosx/release/color.build/Entities/AppError~partial.swiftmodule",
+    "swift-dependencies": "/Users/banikvv/Desktop/test/color/.build/arm64-apple-macosx/release/color.build/Entities/AppError.swiftdeps"
+  },
+  "/Users/banikvv/Desktop/test/color/Sources/color/Entities/Color.swift": {
+    "object": "/Users/banikvv/Desktop/test/color/.build/arm64-apple-macosx/release/color.build/Entities/Color.swift.o",
+    "swiftmodule": "/Users/banikvv/Desktop/test/color/.build/arm64-apple-macosx/release/color.build/Entities/Color~partial.swiftmodule",
+    "swift-dependencies": "/Users/banikvv/Desktop/test/color/.build/arm64-apple-macosx/release/color.build/Entities/Color.swiftdeps"
+  },
+  "/Users/banikvv/Desktop/test/color/Sources/color/Entities/Hex.swift": {
+    "object": "/Users/banikvv/Desktop/test/color/.build/arm64-apple-macosx/release/color.build/Entities/Hex.swift.o",
+    "swiftmodule": "/Users/banikvv/Desktop/test/color/.build/arm64-apple-macosx/release/color.build/Entities/Hex~partial.swiftmodule",
+    "swift-dependencies": "/Users/banikvv/Desktop/test/color/.build/arm64-apple-macosx/release/color.build/Entities/Hex.swiftdeps"
+  },
+  "/Users/banikvv/Desktop/test/color/Sources/color/Extensions/String+Extensions.swift": {
+    "object": "/Users/banikvv/Desktop/test/color/.build/arm64-apple-macosx/release/color.build/Extensions/String+Extensions.swift.o",
+    "swiftmodule": "/Users/banikvv/Desktop/test/color/.build/arm64-apple-macosx/release/color.build/Extensions/String+Extensions~partial.swiftmodule",
+    "swift-dependencies": "/Users/banikvv/Desktop/test/color/.build/arm64-apple-macosx/release/color.build/Extensions/String+Extensions.swiftdeps"
+  },
+  "/Users/banikvv/Desktop/test/color/Sources/color/Services/Network.swift": {
+    "object": "/Users/banikvv/Desktop/test/color/.build/arm64-apple-macosx/release/color.build/Services/Network.swift.o",
+    "swiftmodule": "/Users/banikvv/Desktop/test/color/.build/arm64-apple-macosx/release/color.build/Services/Network~partial.swiftmodule",
+    "swift-dependencies": "/Users/banikvv/Desktop/test/color/.build/arm64-apple-macosx/release/color.build/Services/Network.swiftdeps"
+  },
+  "/Users/banikvv/Desktop/test/color/Sources/color/Services/PasteboardService.swift": {
+    "object": "/Users/banikvv/Desktop/test/color/.build/arm64-apple-macosx/release/color.build/Services/PasteboardService.swift.o",
+    "swiftmodule": "/Users/banikvv/Desktop/test/color/.build/arm64-apple-macosx/release/color.build/Services/PasteboardService~partial.swiftmodule",
+    "swift-dependencies": "/Users/banikvv/Desktop/test/color/.build/arm64-apple-macosx/release/color.build/Services/PasteboardService.swiftdeps"
+  },
+  "/Users/banikvv/Desktop/test/color/Sources/color/main.swift": {
+    "object": "/Users/banikvv/Desktop/test/color/.build/arm64-apple-macosx/release/color.build/main.swift.o",
+    "swiftmodule": "/Users/banikvv/Desktop/test/color/.build/arm64-apple-macosx/release/color.build/main~partial.swiftmodule",
+    "swift-dependencies": "/Users/banikvv/Desktop/test/color/.build/arm64-apple-macosx/release/color.build/main.swiftdeps"
+  }
+}

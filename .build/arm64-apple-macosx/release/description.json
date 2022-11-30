@@ -1,0 +1,133 @@
+{
+  "builtTestProducts" : [
+
+  ],
+  "copyCommands" : {
+
+  },
+  "swiftCommands" : {
+    "C.color-release.module" : {
+      "executable" : "/Applications/XCode 13.2.1.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "importPath" : "/Users/banikvv/Desktop/test/color/.build/arm64-apple-macosx/release",
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/banikvv/Desktop/test/color/Sources/color/Entities/AppError.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/banikvv/Desktop/test/color/Sources/color/Entities/Color.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/banikvv/Desktop/test/color/Sources/color/Entities/Hex.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/banikvv/Desktop/test/color/Sources/color/Extensions/String+Extensions.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/banikvv/Desktop/test/color/Sources/color/Services/Network.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/banikvv/Desktop/test/color/Sources/color/Services/PasteboardService.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/banikvv/Desktop/test/color/Sources/color/main.swift"
+        }
+      ],
+      "isLibrary" : false,
+      "moduleName" : "color",
+      "moduleOutputPath" : "/Users/banikvv/Desktop/test/color/.build/arm64-apple-macosx/release/color.swiftmodule",
+      "objects" : [
+        "/Users/banikvv/Desktop/test/color/.build/arm64-apple-macosx/release/color.build/Entities/AppError.swift.o",
+        "/Users/banikvv/Desktop/test/color/.build/arm64-apple-macosx/release/color.build/Entities/Color.swift.o",
+        "/Users/banikvv/Desktop/test/color/.build/arm64-apple-macosx/release/color.build/Entities/Hex.swift.o",
+        "/Users/banikvv/Desktop/test/color/.build/arm64-apple-macosx/release/color.build/Extensions/String+Extensions.swift.o",
+        "/Users/banikvv/Desktop/test/color/.build/arm64-apple-macosx/release/color.build/Services/Network.swift.o",
+        "/Users/banikvv/Desktop/test/color/.build/arm64-apple-macosx/release/color.build/Services/PasteboardService.swift.o",
+        "/Users/banikvv/Desktop/test/color/.build/arm64-apple-macosx/release/color.build/main.swift.o"
+      ],
+      "otherArguments" : [
+        "-target",
+        "arm64-apple-macosx11.0",
+        "-swift-version",
+        "5",
+        "-sdk",
+        "/Applications/XCode 13.2.1.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk",
+        "-F",
+        "/Applications/XCode 13.2.1.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-I",
+        "/Applications/XCode 13.2.1.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-L",
+        "/Applications/XCode 13.2.1.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-O",
+        "-g",
+        "-j8",
+        "-DSWIFT_PACKAGE",
+        "-module-cache-path",
+        "/Users/banikvv/Desktop/test/color/.build/arm64-apple-macosx/release/ModuleCache",
+        "-parseable-output",
+        "-Xfrontend",
+        "-entry-point-function-name",
+        "-Xfrontend",
+        "color_main",
+        "-color-diagnostics"
+      ],
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/banikvv/Desktop/test/color/.build/arm64-apple-macosx/release/color.build/Entities/AppError.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/banikvv/Desktop/test/color/.build/arm64-apple-macosx/release/color.build/Entities/Color.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/banikvv/Desktop/test/color/.build/arm64-apple-macosx/release/color.build/Entities/Hex.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/banikvv/Desktop/test/color/.build/arm64-apple-macosx/release/color.build/Extensions/String+Extensions.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/banikvv/Desktop/test/color/.build/arm64-apple-macosx/release/color.build/Services/Network.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/banikvv/Desktop/test/color/.build/arm64-apple-macosx/release/color.build/Services/PasteboardService.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/banikvv/Desktop/test/color/.build/arm64-apple-macosx/release/color.build/main.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/banikvv/Desktop/test/color/.build/arm64-apple-macosx/release/color.swiftmodule"
+        }
+      ],
+      "sources" : [
+        "/Users/banikvv/Desktop/test/color/Sources/color/Entities/AppError.swift",
+        "/Users/banikvv/Desktop/test/color/Sources/color/Entities/Color.swift",
+        "/Users/banikvv/Desktop/test/color/Sources/color/Entities/Hex.swift",
+        "/Users/banikvv/Desktop/test/color/Sources/color/Extensions/String+Extensions.swift",
+        "/Users/banikvv/Desktop/test/color/Sources/color/Services/Network.swift",
+        "/Users/banikvv/Desktop/test/color/Sources/color/Services/PasteboardService.swift",
+        "/Users/banikvv/Desktop/test/color/Sources/color/main.swift"
+      ],
+      "tempsPath" : "/Users/banikvv/Desktop/test/color/.build/arm64-apple-macosx/release/color.build",
+      "wholeModuleOptimization" : true
+    }
+  },
+  "swiftFrontendCommands" : {
+
+  },
+  "testDiscoveryCommands" : {
+
+  }
+}

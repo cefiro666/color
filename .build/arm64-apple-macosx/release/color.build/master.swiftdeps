@@ -1,0 +1,12 @@
+version: "Apple Swift version 5.5.2 (swiftlang-1300.0.47.5 clang-1300.0.29.30)"
+options: "3d3874fdb651268172b9b0cdadbfa658d5b9cc153664fa13e5b10d0223ab6154"
+build_start_time: [1669822634, 394420146]
+build_end_time: [1669822638, 955014944]
+inputs:
+  "/Users/banikvv/Desktop/test/color/Sources/color/Entities/AppError.swift": [1669822167, 958042144]
+  "/Users/banikvv/Desktop/test/color/Sources/color/Entities/Color.swift": [1669822167, 958813190]
+  "/Users/banikvv/Desktop/test/color/Sources/color/Entities/Hex.swift": [1669822247, 309480428]
+  "/Users/banikvv/Desktop/test/color/Sources/color/Extensions/String+Extensions.swift": [1669822167, 959823608]
+  "/Users/banikvv/Desktop/test/color/Sources/color/Services/Network.swift": [1669822247, 317172765]
+  "/Users/banikvv/Desktop/test/color/Sources/color/Services/PasteboardService.swift": [1669822247, 302042484]
+  "/Users/banikvv/Desktop/test/color/Sources/color/main.swift": [1669822167, 960996627]
