@@ -1,7 +1,5 @@
 # color
 
-A description of this package.
-
 Консольная утилита для получения названия цвета по hex коду.
 Использует API https://www.thecolorapi.com.
 
