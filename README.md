@@ -19,4 +19,4 @@
 `color f2f3f4`
 
 Выведет название цвета и скопирует в буфер обмена строку вида
-`public static let aliceBlueColor = UIColor(hex: "F2F3F4")!`
+`public static let aliceBlueColor = UIColor(hex: "#F2F3F4")!`
