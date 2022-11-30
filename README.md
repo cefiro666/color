@@ -9,10 +9,7 @@ A description of this package.
 `swift build -c release`
 
 Выполнить
-```
-chmod +x setup.sh 
-./setup.sh
-```
+`chmod +x setup.sh ; ./setup.sh`
 
 Произойдет копирование исполняемого файла в папку ~/.bin/ и установка пути исполнения в .zshrc
 Если используете bash - можно посмотреть скрипт и сделать по аналогии. 
