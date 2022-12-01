@@ -22,7 +22,7 @@ loadColor(withHex: hex) { result in
     switch result {
     case let .success(color):
         PasteboardService.set(color.xcodeString)
-        print("Color name: \(color.name.value)")
+        print("\(color.xcodeString)")
         print("Copied to pasteboard!")
         
     case let .failure(error):
